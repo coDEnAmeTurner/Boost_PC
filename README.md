@@ -7,4 +7,4 @@ This is my very first game project made in Unity. It's super simple and there's 
   - Press Code
   - Download Zip
   - Extract Zip file into a folder 
-+ Run Boost.exe and play
++ Head into the folder, run Boost.exe and play
