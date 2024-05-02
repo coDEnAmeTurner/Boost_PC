@@ -3,6 +3,7 @@
 This is my very first game project made in Unity. It's super simple and there's nothing too crazy about it. Though saying that, it bears a __gigantic sentimental value__ for **Trương Bùi Anh Tuấn**, who is the person I wish to dedicate this game towards.
 
 ## How to play:
+The game is developed on PC and played on PC only. Sorry for its severe shortage of compatible gaming platforms.
 + While in this GitHub page:
   - Press Code
   - Download Zip
